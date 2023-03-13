@@ -14,7 +14,7 @@ body {
 
 #section2 {
     height: 100vh;
-    background-color: #fffafb;
+    background-color: #fef2f5;
 }
 
 #section3 {
@@ -169,7 +169,7 @@ h4 {
 }
 
 .progress.html .progress-bar {
-    border-color: #ff6a76;
+    border-color: #f197a3;
 }
 
 .progress.html .progress-left .progress-bar {
@@ -177,7 +177,7 @@ h4 {
 }
 
 .progress.python .progress-bar {
-    border-color: #ff6a76;
+    border-color: #f197a3;
 }
 
 .progress.python .progress-left .progress-bar {
@@ -185,7 +185,7 @@ h4 {
 }
 
 .progress.js .progress-bar {
-    border-color: #ff6a76;
+    border-color: #f197a3;
 }
 
 .progress.js .progress-left .progress-bar {
@@ -193,7 +193,7 @@ h4 {
 }
 
 .progress.mysql .progress-bar {
-    border-color: #ff6a76;
+    border-color: #f197a3;
 }
 
 .progress.mysql .progress-left .progress-bar {
@@ -201,7 +201,7 @@ h4 {
 }
 
 .progress.cascade .progress-bar {
-    border-color: #ff6a76;
+    border-color: #f197a3;
 }
 
 .progress.cascade .progress-left .progress-bar {
@@ -209,7 +209,7 @@ h4 {
 }
 
 .progress.procreate .progress-bar {
-    border-color: #ff6a76;
+    border-color: #f197a3;
 }
 
 .progress.procreate .progress-left .progress-bar {
@@ -292,7 +292,7 @@ h4 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: larger;
-    color: #ff6a76;
+    color: #604f6f;
 }
 
 #description {
