@@ -30,12 +30,14 @@ body {
 
 #section5 {
     height: 100vh;
-    background: #ff6a76;
+    background-image: url("./assets/bg-section5.png");
+    background-size: cover; 
 }
 
 #section6 {
     height: 100vh;
-    background: #604f6f;
+    background-image: url("./assets/bg-section6.png");
+    background-size: cover; 
 }
 
 h1,
